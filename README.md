@@ -1,0 +1,2 @@
+# darslarim
+python
