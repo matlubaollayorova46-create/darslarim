@@ -1,4 +1,4 @@
-# darslarim
+# darslarim0
 python
 Rekursiya
 Rekursiya - bu funksiya o'zini chaqirganda.
