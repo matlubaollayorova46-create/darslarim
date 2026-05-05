@@ -28,7 +28,7 @@ Bazaviy holat bo'lmasa, funksiya o'zini abadiy chaqiradi va bu stekning toshib k
 Misol
 Bazaviy holat va rekursiv holatni aniqlash:
 
-def factorial(n):
+def factorial(n)
   # Base case
   if n == 0 or n == 1:
     return 1
