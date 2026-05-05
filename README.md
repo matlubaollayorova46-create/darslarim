@@ -15,7 +15,7 @@ def countdown(n):
     print("Done!")
   else:
     print(n)g
-    countdown(n - 1)h
+    countdown(n - 1)
 
 countdown(5)
 Bazaviy holat va rekursiv holat
