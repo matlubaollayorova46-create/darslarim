@@ -12,7 +12,7 @@ MisolO'zingizning Python serveringizni oling
 
 def countdown(n):
   if n <= 0:
-    print("Done!")NN
+    print("Done!")
   else:
     print(n)g
     countdown(n - 1):
