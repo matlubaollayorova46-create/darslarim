@@ -25,7 +25,7 @@ Bazaviy holat - Rekursiyani to'xtatadigan shart
 Rekursiv holat - o'zgartirilgan argument bilan o'zini chaqiradigan funksiya
 Bazaviy holat bo'lmasa, funksiya o'zini abadiy chaqiradi va bu stekning toshib ketishi xatosiga olib keladi.
 
-Misol:
+Misol
 Bazaviy holat va rekursiv holatni aniqlash:
 
 def factorial(n)
