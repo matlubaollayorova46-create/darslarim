@@ -10,7 +10,7 @@ Dasturchi rekursiya bilan juda ehtiyot bo'lishi kerak, chunki hech qachon tugama
 MisolO'zingizning Python serveringizni oling
 5 dan pastga qarab sanaydigan oddiy rekursiv funksiya:
 
-def countdown(n):
+def countdown(n):J
   if n <= 0:
     print("Done!")
   else:
