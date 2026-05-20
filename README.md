@@ -1,5 +1,5 @@
 # darslarim
-python
+pythonvvvvvvvvvv
 Rekursiya
 Rekursiya - bu funksiya o'zini chaqirganda.
 
