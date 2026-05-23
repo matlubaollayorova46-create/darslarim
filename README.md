@@ -1,6 +1,6 @@
 # darslarim
 python
-12345
+1234
 Rekursiya
 Rekursiya - bu funksiya o'zini chaqirganda.
 
