@@ -1,6 +1,6 @@
 # darslarim
 python
-1
+
 Rekursiya
 Rekursiya - bu funksiya o'zini chaqirganda.
 
