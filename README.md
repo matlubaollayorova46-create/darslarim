@@ -8,7 +8,7 @@ Dasturchi rekursiya bilan juda ehtiyot bo'lishi kerak, chunki hech qachon tugama
 
 MisolO'zingizning Python serveringizni oling
 5 dan pastga qarab sanaydigan oddiy rekursiv funksiya:
-122345678901
+12234567890
 def countdown(n):
   if n <= 0:
     print("Done!")
