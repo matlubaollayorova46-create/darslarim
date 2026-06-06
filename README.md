@@ -15,7 +15,7 @@ def countdown(n):
   else:
     print(n)g
     countdown(n - 1):
-1234567890--=
+1234567890--
 countdown(5)
 Bazaviy holat va rekursiv holat
 Har bir rekursiv funksiya ikkita qismdan iborat bo'lishi kerak:
