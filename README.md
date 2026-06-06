@@ -19,7 +19,7 @@ def countdown(n):
 countdown(5)
 Bazaviy holat va rekursiv holat
 Har bir rekursiv funksiya ikkita qismdan iborat bo'lishi kerak:
-
+aaa
 Bazaviy holat - Rekursiyani to'xtatadigan shart
 Rekursiv holat - o'zgartirilgan argument bilan o'zini chaqiradigan funksiya
 Bazaviy holat bo'lmasa, funksiya o'zini abadiy chaqiradi va bu stekning toshib ketishi xatosiga olib keladi.
