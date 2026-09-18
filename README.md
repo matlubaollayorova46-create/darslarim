@@ -1,5 +1,5 @@
 # darslarim
-python
+python123456789
 Rekursiya
 Rekursiya - bu funksiya o'zini chaqirganda.
 Rekursiya keng tarqalgan matematik va dasturlash tushunchasidir. Bu funksiya o'zini o'zi chaqirishini anglatadi. Buning afzalligi shundaki, siz natijaga erishish uchun ma'lumotlarni sikl bilan ko'rib chiqishingiz mumkin.
